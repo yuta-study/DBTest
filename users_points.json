@@ -1,4 +1,5 @@
-[
+{
+  "users":[
   {
     "user_id":3,
     "user_name":"Chika",
@@ -17,4 +18,5 @@
     "points":80,
     "rank":3
   }
-]
+  ]
+}
