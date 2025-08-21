@@ -17,6 +17,12 @@
     "name":"Bob",
     "points":80,
     "rank":3
+  },
+   {
+    "user_id":4,
+    "name":"Drill",
+    "points":130,
+    "rank":4
   }
   ]
 }
