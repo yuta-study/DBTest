@@ -2,19 +2,19 @@
   "users":[
   {
     "user_id":3,
-    "user_name":"Chika",
+    "name":"Chika",
     "points":150,
     "rank":1
   },
   {
     "user_id":1,
-    "user_name":"Alice",
+    "name":"Alice",
     "points":120,
     "rank":2
   },
   {
     "user_id":2,
-    "user_name":"Bob",
+    "name":"Bob",
     "points":80,
     "rank":3
   }
